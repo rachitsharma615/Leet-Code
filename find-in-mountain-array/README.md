@@ -1,3 +1,4 @@
+[Discussion Post (created on 8/10/2021 at 22:42)](https://leetcode.com/problems/find-in-mountain-array/discuss/1566831/JAVA-SOLUTION-or-Binary-Search-Easy-or-Fastest)  
 <h2>1095. Find in Mountain Array</h2><h3>Hard</h3><hr><div><p><em>(This problem is an <strong>interactive problem</strong>.)</em></p>
 
 <p>You may recall that an array <code>arr</code> is a <strong>mountain array</strong> if and only if:</p>
